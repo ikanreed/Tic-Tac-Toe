@@ -1,0 +1,9 @@
+Goals: make never losing tic-tac-toe program.
+
+Steps:
+	1. Build simple django instance
+	2. Create object model
+	3. Create gui mockup template
+	4. Build unit tests that test all possible moves against the AI failing on "human" victory
+	5. Implement GUI mechanics
+	6. Implement AI using a "least possible losses" search of moves.(going for extendable rather than efficeient code)
